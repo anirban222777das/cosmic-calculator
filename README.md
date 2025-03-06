@@ -25,4 +25,4 @@ A **sleek and funky** calculator app with an **easy-to-use** interface, featurin
 ## 📲 Installation  
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/anirban222777das/cosmic-calculator
